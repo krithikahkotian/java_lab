@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 abstract class Shape {
     double a, b;
-    abstract void printArea();
+    abstract void printArea(); 
 }
 
 class Rectangle extends Shape {
